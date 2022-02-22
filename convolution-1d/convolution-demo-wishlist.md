@@ -4,7 +4,9 @@ Probably I could make these into issues.
 
 ## Style
 - I prefer Brandon Rohrer's [style of showing the multiplication and sum](https://e2eml.school/convolution_one_d.html)
-- He has [code to create this visualization](https://gitlab.com/brohrer/cottonwood/-/blob/main/cottonwood/experimental/visualize_conv1d.py) on GitLab and it is MIT-licensed
+- He has [code to create this visualization](https://gitlab.com/brohrer/e2eml-course-321/-/blob/main/conv_one_d_viz.py) on GitLab. It does not have a license file. However, his other repos are MIT-licensed and the actual output images are CC0. His code to make these illustrations has some tough ffmpeg output options and it would be simpler to use `gif` or `celluloid` to plot the output.
+- I also want the tracks to run vertically rather than horizontally as in his illustrations.
+- Probably my best move here is to ask B. Rohrer if I can use his annotations and adapt to my version. If not, can always redo the annotations part and cite as an inspiration.
 
 ## Exposition -- basics
 - Need to add some context on where convolution gets used
